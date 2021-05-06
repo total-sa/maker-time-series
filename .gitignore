@@ -97,3 +97,7 @@ data/external/*
 
 # Venv
 venv/*
+
+#fbprophet source
+setup/fbprophet-0.7.1/*
+setup/fbprophet-0.7.1.tar.gz
